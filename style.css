@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+div {
+    border: 2px solid gray;
+}
+
+#minha-foto {
+    float: left;
+    height: 400px;
+    padding: 15px;
+    background-color: gold;
+}
+
+.image-container {
+    height: 500px;
+}
+
+#sobre-mim, #idiomas {
+    background-color: rgb(135, 167, 19);
+}
